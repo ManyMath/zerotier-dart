@@ -1,1 +1,2 @@
-# zerotier-dart
+# `zerotier`
+ZeroTier Dart SDK.
